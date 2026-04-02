@@ -139,5 +139,4 @@ Developed as a Machine Learning mini project.
 
 This project is built for learning and demonstrating basic ML workflow:
 Data → Training → Prediction → Deployment
-This project is built for learning and demonstrating basic ML workflow:
-Data → Training → Prediction → Deployment
+
